@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomSheetApp</string>
+    <string name="image">Image</string>
+    <string name="name">Metehan Bolat</string>
+    <string name="situation">Available</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="bottom_sheet">Bottom Sheet</string>
+</resources>
